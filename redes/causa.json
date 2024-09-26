@@ -1,5 +1,5 @@
 {
-    "causas": [
+  "causas": [
     "Instabilidade do serviço do Wi-Fi.",
     "Dúvidas sobre funcionalidades do software.",
     "Configuração de SSID e Handover.",
@@ -7,5 +7,5 @@
     "Configuração de wireless em bridge e Handover.",
     "Configuração de ponto de acesso bridge.",
     "Configuração de assistente IoT."
-    ]
+  ]
 }
