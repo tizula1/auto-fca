@@ -1,28 +1,11 @@
-
 {
-    "acoes": [
-    "Realizado acesso remoto;",
-    "Verificado que apenas o AP 'Informática' estava com problemas para conexão;",
-    "Reiniciado o AP e o serviço do Wi-Fi;",
-    "Cliente realiza um teste de conexão com sucesso;",
-    "Cliente agradece e encerra o atendimento;",
-    "Informado ao cliente sobre o funcionamento da senha simples no InMaster;",
-    "Instruído cliente a colocar o mesmo nome de rede nas duas frequências;",
-    "Instruído cliente no caminho para as configurações de Handover;",
-    "Verificado em teste de ping que o PTP estava tendo uma latência média de 1ms-3ms com picos de 50ms;",
-    "Informado ao cliente que a latência estava dentro do esperado em relação à tecnologia wireless;",
-    "Verificado que o PTP estava com o nível de sinal em -74dBm;",
-    "Alterada potência do rádio para buscar uma qualidade maior na conexão;",
-    "Após alterações, o nível de sinal ficou em -66dBm;",
-    "Orientado ao cliente realizar um reajuste no alinhamento dos equipamentos, buscando melhorar o nível de sinal do PTP;",
-    "Realizada configuração do primeiro AP em bridge, como principal do Handover;",
-    "Instruído ao cliente sobre o funcionamento do Band Steering;",
-    "Instruído ao cliente sobre o funcionamento de VLANs;",
-    "Instruído ao cliente sobre o funcionamento do QoS;",
-    "Instruído ao cliente nas configurações do segundo AP, como bridge e com o QoS habilitado;",
-    "Cliente irá realizar as configurações nos demais equipamentos;",
-    "Instruído cliente na configuração do produto via interface web;",
-    "Cliente realiza um teste prático de funcionamento, com sucesso;",
-    "Instruído cliente via APP para habilitar o assistente IoT;"
-    ]
-    }
+  "fatos": [
+    "Cliente relata que está sem acesso à internet conectado ao Wi-Fi dos APs.",
+    "Cliente questiona quais as formas de autenticação disponíveis no InMaster.",
+    "Cliente questiona como configurar o SSID como dualband e como configurar o Handover.",
+    "Cliente relata estar tendo uma alta latência no seu PTP.",
+    "Cliente precisa de apoio nas configurações iniciais dos seus produtos e sobre dúvidas de suas funcionalidades.",
+    "Cliente precisa de apoio para configurar o produto em bridge.",
+    "Cliente precisa de apoio para habilitar o assistente IoT via APP 'Wi-Fi Control Home'."
+  ]
+}
