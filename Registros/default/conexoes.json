@@ -1,1 +1,6 @@
-
+{
+    "conexoes" : [
+        "((( Wifi )))",
+        "--- Cabo UTP ---"
+    ]
+}
