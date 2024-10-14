@@ -25,6 +25,7 @@
     "Cliente questiona qual produto utilizar para conectar uma câmera em um elevador à rede.",
     "Cliente questiona se a capacidade de 60 usuários do W5-2100G se aplica aos produtos conectados via cabo também.",
     "Cliente relata que ao ligar o AP 310, o mesmo não funciona enquanto o W5-2100G estava operando.",
-    "Cliente relata que dispositivos nao conectam no wifi"
+    "Cliente relata que dispositivos nao conectam no wifi",
+    "Cliente relata baixo throughput wireless"
   ]
 }
