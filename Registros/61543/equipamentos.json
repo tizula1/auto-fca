@@ -1,5 +1,5 @@
 {
-    "equipamentos": [
+  "equipamentos": [
     "WOM 5A MIMO",
     "WOM 5A MIMO CFTV",
     "AP 1250 AC MAX",
@@ -47,6 +47,7 @@
     "SG 5204 MR L2+",
     "SG 2404 MR",
     "SG 1002 MR L2+",
-    "SF 2622 MR L2"
-    ]
-    }
+    "SF 2622 MR L2",
+    "Twibi Giga"
+  ]
+}
