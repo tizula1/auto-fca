@@ -84,6 +84,7 @@
     "colocar um RB - R3005G + Switch Giga gerenciavel e Atrelasse as Vlans 10 e 20 para os AP's em Modo AcessPoint",
     "o Mesmo deixou em Router para que os Clientes não tivessem acesso a Rede Interna",
     "Expliquei como funcionaria e o Cliente entendeu, o mesmo agradeceu pois não sabia sobre o R3005G e que poderia fazer desta forma",
-    "Indiquei para o mesmo tambem a ResetTool para achar os AP's mais facilmente na rede"
+    "Indiquei para o mesmo tambem a ResetTool para achar os AP's mais facilmente na rede",
+    "Expliquei sobre a particularidade dos AP's retornarem em AP, e que devia acessar pelo IP da rede deles, cliente fez isso e acesso com sucesso"
   ]
 }
