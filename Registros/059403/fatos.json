@@ -29,6 +29,7 @@
     "Cliente deseja saber se tem uma ferramenta para resetar o AP sem a senha de acesso",
     "5 AP's 3000 ax (Indoor e Outdoor) | AP's estes que ficaram Off no Inmaster, cliente deseja auxilio para colocar-los de volta para Online",
     "Cliente alega que o Adaptador não reconhece a 5Ghz do seu modem, mas de outros sim.",
-    "Cliente não consegue acessar os AP's através da Rede..."
+    "Cliente não consegue acessar os AP's através da Rede...",
+    "Continuação do atendimento passado... | Cliente resetou os AP's para configurar eles como Router e com isolamento de Apenas navegar, mas não conseguiu acessar pelo 10.0.0.1"
   ]
 }
