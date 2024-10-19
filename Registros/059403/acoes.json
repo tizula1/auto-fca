@@ -81,6 +81,7 @@
     ") Cliente resetou 1 deles manualmente, não consegui acessar este pela API",
     "Cliente fez o Teste pelo Netspot Indiquei que ligue ao provedor para alterar o Canal",
     "CENARIO: Pizzaria Indiquei que fizesse diferente",
-    "colocar um RB - R3005G + Switch Giga gerenciavel e Atrelasse as Vlans 10 e 20 para os AP's em Modo AcessPoint"
+    "colocar um RB - R3005G + Switch Giga gerenciavel e Atrelasse as Vlans 10 e 20 para os AP's em Modo AcessPoint",
+    "o Mesmo deixou em Router para que os Clientes não tivessem acesso a Rede Interna"
   ]
 }
