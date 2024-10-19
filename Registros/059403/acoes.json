@@ -80,6 +80,7 @@
     "Acessei 2 Pela API e resetei eles, associei eles no inmaster tranquilamente, mesmo com as portas 1883,8883 e 9001Fechadas(portas estas que precisam estar abertas para funcionar o inmaster na rede",
     ") Cliente resetou 1 deles manualmente, não consegui acessar este pela API",
     "Cliente fez o Teste pelo Netspot Indiquei que ligue ao provedor para alterar o Canal",
-    "CENARIO: Pizzaria Indiquei que fizesse diferente"
+    "CENARIO: Pizzaria Indiquei que fizesse diferente",
+    "colocar um RB - R3005G + Switch Giga gerenciavel e Atrelasse as Vlans 10 e 20 para os AP's em Modo AcessPoint"
   ]
 }
