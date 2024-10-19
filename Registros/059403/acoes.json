@@ -79,6 +79,7 @@
     "Acessei remotamente de fato os AP's estavam todos no Inmaster, porém todos Off tentei acessar 3 deles que estavam ligados, todos os 3 dataram que estavam associados no inmaster Removi todos os 5 do inmaster mas mesmo assim continuaram com gerenciamento por ele aparecendo",
     "Acessei 2 Pela API e resetei eles, associei eles no inmaster tranquilamente, mesmo com as portas 1883,8883 e 9001Fechadas(portas estas que precisam estar abertas para funcionar o inmaster na rede",
     ") Cliente resetou 1 deles manualmente, não consegui acessar este pela API",
-    "Cliente fez o Teste pelo Netspot Indiquei que ligue ao provedor para alterar o Canal"
+    "Cliente fez o Teste pelo Netspot Indiquei que ligue ao provedor para alterar o Canal",
+    "CENARIO: Pizzaria Indiquei que fizesse diferente"
   ]
 }
